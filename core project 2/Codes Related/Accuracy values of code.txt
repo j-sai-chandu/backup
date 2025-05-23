@@ -1,0 +1,68 @@
+Accuracy values for DecisionTreeRegressor:
+Iteration 1: 77.25%
+Iteration 2: 77.26%
+Iteration 3: 77.26%
+Iteration 4: 77.26%
+Iteration 5: 77.26%
+Iteration 6: 77.26%
+Iteration 7: 77.25%
+Iteration 8: 77.26%
+Iteration 9: 77.25%
+Iteration 10: 77.25%
+Average Accuracy for DecisionTreeRegressor: 77.25%
+
+
+Accuracy values for XGBRegressor:
+Iteration 1: 90.07%
+Iteration 2: 90.21%
+Iteration 3: 90.21%
+Iteration 4: 90.15%
+Iteration 5: 90.01%
+Iteration 6: 90.02%
+Iteration 7: 90.01%
+Iteration 8: 90.16%
+Iteration 9: 90.21%
+Iteration 10: 90.10%
+Average Accuracy for XGBRegressor: 90.11%
+
+
+Accuracy values for GradientBoostingRegressor:
+Iteration 1: 78.08%
+Iteration 2: 78.08%
+Iteration 3: 78.09%
+Iteration 4: 78.09%
+Iteration 5: 78.09%
+Iteration 6: 78.09%
+Iteration 7: 78.08%
+Iteration 8: 78.09%
+Iteration 9: 78.08%
+Iteration 10: 78.08%
+Average Accuracy for GradientBoostingRegressor: 78.08%
+
+
+Accuracy values for RandomForestRegressor:
+Iteration 1: 73.24%
+Iteration 2: 73.24%
+Iteration 3: 73.24%
+Iteration 4: 73.25%
+Iteration 5: 73.25%
+Iteration 6: 73.25%
+Iteration 7: 73.25%
+Iteration 8: 73.25%
+Iteration 9: 73.24%
+Iteration 10: 73.24%
+Average Accuracy for RandomForestRegressor: 73.24%
+
+
+Accuracy values for KNeighborsRegressor:
+Iteration 1: 70.00%
+Iteration 2: 70.00%
+Iteration 3: 70.00%
+Iteration 4: 70.00%
+Iteration 5: 70.00%
+Iteration 6: 70.00%
+Iteration 7: 70.00%
+Iteration 8: 70.00%
+Iteration 9: 70.00%
+Iteration 10: 70.00%
+Average Accuracy for KNeighborsRegressor: 70.00%
